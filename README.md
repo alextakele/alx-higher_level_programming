@@ -1,1 +1,1 @@
-"""Python Prjoect Starting from hello world"""
+"""Python Project Starting from hello world"""
