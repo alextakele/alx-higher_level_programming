@@ -1,4 +1,4 @@
-#!/usr/bin/pythoon3
+#!/usr/bin/python3
 for i in range(10):
     for j in range(10):
         if(i !=j and i < j and i < 9:
