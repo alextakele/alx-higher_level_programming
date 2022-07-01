@@ -1,1 +1,1 @@
-0x02-python-import_modules
+Importing Python 3  Modules  to solve different problems of given project
