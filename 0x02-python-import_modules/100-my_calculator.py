@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # 100-my_calculator.py
-# Brennan D Baraban <375@holbertonschool.com>
+# Alex T Takele <alextakele16@alx.com>
 
 if __name__ == "__main__":
     """Handle basic arithmetic operations."""
