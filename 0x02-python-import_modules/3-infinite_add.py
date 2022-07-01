@@ -10,4 +10,4 @@ if __name__ == "__main__":
     elif len_args == 1:
         for i in range(1, len_args + 1):
             sum += int(args[i])
-            print(int(sum))
+    print(int(sum))
