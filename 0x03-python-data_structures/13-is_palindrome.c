@@ -1,4 +1,4 @@
-1#include "lists.h"
+#include "lists.h"
 
 /**
  * is_palindrome - calls helper to check if a singly linked list
