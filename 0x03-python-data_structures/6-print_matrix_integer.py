@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-""" alex takele """
 def print_matrix_integer(matrix=[[]]):
     for row in matrix:
         first = True
