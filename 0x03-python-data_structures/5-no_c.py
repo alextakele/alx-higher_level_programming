@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""Python3 code here"""
 def no_c(my_string):
     new_string = ""
     C = ord("C")
