@@ -1,6 +1,6 @@
 #!/usr/bin/python3
+import sys
 
-import sys 
 
 def safe_function(fct, *args):
     result = None
@@ -9,3 +9,4 @@ def safe_function(fct, *args):
     except Exception as e:
         sys.stderr.write("Exception: {}\n".format(e))
     return result
+
