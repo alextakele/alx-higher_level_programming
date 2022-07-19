@@ -1,1 +1,1 @@
-Python class and object implementations
+Python Class and Object Implementations
