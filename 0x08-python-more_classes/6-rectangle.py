@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 
-A module with a Rectangle that does nothing
+A module with a Rectangle that does nothing with python
 
 """
 
