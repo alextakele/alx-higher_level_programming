@@ -20,4 +20,5 @@ class MyList(list):
         method prints sorted list.
 
         """
+
         print(sorted(self))
