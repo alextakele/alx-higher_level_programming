@@ -1,10 +1,15 @@
 #!/usr/bin/python3
-''' Module Input Output'''
+''' Module Input Output 
+
+'''
 import sys
 
 
 def print_stats(size, status_codes):
-    ''' Print statistics'''
+
+    ''' Print statistics
+
+    '''
     print("File size: {}".format(size))
     for key in sorted(status_codes):
         print("{}: {}".format(key, status_codes[key]))
