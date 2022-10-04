@@ -1,14 +1,15 @@
 #!/usr/bin/node
 const myArgs = process.argv.slice(2);
-let i, j;
-if (isNaN(myArgs[0])) {
+const n = Number(myArgs[0]);
+let x = '';
+if (isNaN(n)) {
   console.log('Missing size');
 } else {
-  for (i = 0; i < parseInt(myArgs[0]); i++) {
-    let row = '';
-    for (j = 0; j < parseInt(myArgs[0]); j++) {
-      row += 'X';
+  for (let i = 0; i < n; i++) {
+    for (let j = 0; j < n; j++) {
+      x += 'X';
     }
-    console.log(row);
+    console.log(x);
+    x = '';
   }
 }

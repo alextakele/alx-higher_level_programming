@@ -1,10 +1,13 @@
 #!/usr/bin/node
 const myArgs = process.argv.slice(2);
-if (!myArgs[0] || !myArgs[2]) {
+if (myArgs.length <= 1) {
   console.log(0);
 } else {
-  const args = myArgs.map(Number);
-  const firstMax = Math.max.apply(null, args);
-  args.splice(args.indexOf(firstMax), 1);
-  console.log(Math.max.apply(null, args));
+  for (let i = 0; i < myArgs.length; i++) {
+    if (Number(myArgs[i]) === Math.max(...myArgs)) {
+      myArgs.splice(i, 1);
+      break;
+    }
+  }
+  console.log(Math.max(...myArgs));
 }
