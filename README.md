@@ -30,8 +30,8 @@
 
 
 ## Hi I am Alexander Takele Mengesha
-### Data Scientist
-### Full stack developer...
+ ### Data Scientist
+ ### Full stack developer...
 
 
 ## 🔗 Links
