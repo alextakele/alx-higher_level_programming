@@ -1,7 +1,7 @@
 
 # Higher Level Programming 
 #### This repository contains higher level programming Projects that contain the following technologies 
-###### Python Programming, javascript Programming, Fundamentals of  Structured Quary Language, Fundamentals of Computer Networkig.
+##### Python Programming, javascript Programming, Fundamentals of  Structured Quary Language, Fundamentals of Computer Networkig.
 ### Those all Projects are Listed below:
 
 	0x00-python-hello_world
