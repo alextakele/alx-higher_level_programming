@@ -1,6 +1,6 @@
 
 # Higher Level Programming 
-#### This repository contains higher level programming Projects like: 
+#### This repository contains higher level programming Projects that contain the following technologies 
 ###### Python Programming, javascript Programming, Fundamentals of  Structured Quary Language, Fundamentals of Computer Networkig.
 ### Those all Projects are Listed below:
 
