@@ -29,7 +29,7 @@
 
 
 
-#🚀 Hi I am Alexander Takele Mengesha
+# Hi I am Alexander Takele Mengesha
 
 #### I'm a Data Scientist
 ### Full stack developer...
