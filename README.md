@@ -31,7 +31,7 @@
 
 ## Hi I am Alexander Takele Mengesha
  ### Data Engineer
- ### Full stack developer...
+ ### Backend developer...
 
 
 ## 🔗 Links
